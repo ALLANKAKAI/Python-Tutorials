@@ -1,3 +1,6 @@
+
+#this is a test to improve my python skills
+
 for num in range(1, 101):
     if num % 3 == 0 and num % 5 == 0:
         print("%d is FizzBazz" % num)
